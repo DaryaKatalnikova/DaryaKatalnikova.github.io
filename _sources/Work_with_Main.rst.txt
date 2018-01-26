@@ -64,5 +64,5 @@
 `Назад`_ `Вперед`_
 
 
-.. _Назад: C:/uio/build/html/Add_and_Edit_and_Delete.html
-.. _Вперед: C:/uio/build/html/Exit.html
+.. _Назад: Add_and_Edit_and_Delete.html
+.. _Вперед: Exit.html

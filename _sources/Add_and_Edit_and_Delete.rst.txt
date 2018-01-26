@@ -67,6 +67,6 @@
 
 `Назад`_ `Вперед`_
 
-.. _Назад: C:/uio/build/html/Start.html
-.. _Вперед: C:/uio/build/html/Work_with_Main.html
+.. _Назад: Start.html
+.. _Вперед: Work_with_Main.html
 

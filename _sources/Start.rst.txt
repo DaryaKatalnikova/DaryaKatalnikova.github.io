@@ -19,6 +19,6 @@
 `Назад`_ `Вперед`_
 
 
-.. _Назад: C:/uio/build/html/index.html
-.. _Вперед: C:/uio/build/html/Add_and_Edit_and_Delete.html
+.. _Назад: index.html
+.. _Вперед: Add_and_Edit_and_Delete.html
 
